@@ -1,23 +1,22 @@
-Curriculum Vitae
+#Curriculum Vitae
 
 
-Personal data:
+**Name:** Kaj Johan Frederik van der Peet	
 
-Name: Kaj Johan Frederik van der Peet	
+**Address:** Professor de Moorplein 284-5, 5037DP Tilburg
 
-Address: Professor de Moorplein 284-5, 5037DP Tilburg
+**Phone:** 0165505959
 
-Phone: 0165505959
+**Cell:** 0638033272
 
-Cell: 0638033272
+**E-mail:** kajvdpeet@live.nl
 
-E-mail: kajvdpeet@live.nl
+**Nationality:** Dutch
 
-Nationality: Dutch
+**Date of birth:**10-12-1995
 
-Date of birth: 10-12-1995
 
-Profile:
+**Profile:**
 
 My personality is best described as calm, hardworking, rationalistic and caring. It is very uncommon for me to lose my temper, since I always put events in perspective and try to analyze them rationally. Also I avoid unnecessary conflicts with people even though I won’t walk away from a proper discussion. My ambitions are to see a lot of the world and to keep on developing myself and my views of the world. 
 
