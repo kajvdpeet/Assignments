@@ -20,9 +20,10 @@
 
 My personality is best described as calm, hardworking, rationalistic and caring. It is very uncommon for me to lose my temper, since I always put events in perspective and try to analyze them rationally. Also I avoid unnecessary conflicts with people even though I won’t walk away from a proper discussion. My ambitions are to see a lot of the world and to keep on developing myself and my views of the world. 
 
-Education:
+**Education:**
 
-2007-2013  
+**2007-2013**
+
 Stedelijk Gymnasium Breda
 
 Received Gymnasium diploma
@@ -32,22 +33,22 @@ Passed First certificate in English (Cambridge exam, level B2)
 Passed Certificate of proficiency in English (Cambridge exam, level C2)
 
 
-2013-2016
+**2013-2016**
 Study: economics
 
 Tilburg University
 
 Completed my bachelor in economics
 
-2016-2017
+**2016-2017**
 Master in economics
 
 
-International experience:
+**International experience:**
 
 Countries I have visited: England, Italy, Austria, France, Spain, Greece, Switzerland, Belgium, Germany, Croatia, Slovakia, Norway, Malaysia, America, and Canada.
 I very much enjoy visiting other countries, because of the different cultures, languages food and a lot more. I also speak a lot with international people over skype and have learned a lot about other countries and cultures from them.
 
-Interests and hobbies:
+**Interests and hobbies:**
 
 Tennis, football, chess and gaming 
