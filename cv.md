@@ -34,6 +34,7 @@ Passed Certificate of proficiency in English (Cambridge exam, level C2)
 
 
 **2013-2016**
+
 Study: economics
 
 Tilburg University
@@ -41,6 +42,7 @@ Tilburg University
 Completed my bachelor in economics
 
 **2016-2017**
+
 Master in economics
 
 
