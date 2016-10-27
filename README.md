@@ -8,4 +8,6 @@ This repository contains my assignments!
 
 [My CV](cv.md)
 
-[Canon-The Behavioral aspects of Labor Economics](https://github.com/spirosara/Assignments/blob/master/Canon-%20The%20Behavioral%20aspects%20of%20Labor%20Economics.md)
+[My canon](canon.md) 
+
+[Canon-The Behavioral aspects of Labor Economics - Spiros Aravanis github](https://github.com/spirosara/Assignments/blob/master/Canon-%20The%20Behavioral%20aspects%20of%20Labor%20Economics.md)
