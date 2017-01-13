@@ -1,5 +1,7 @@
-	a = 10
-	print(a)	
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 
 
